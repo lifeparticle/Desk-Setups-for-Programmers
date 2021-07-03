@@ -27,7 +27,7 @@ Photo by <a href="https://unsplash.com/@writecodenow">Boitumelo Phetla</a> on <a
 3. [IQUNIX F96 Coral Sea Wireless Mechanical Keyboard](https://iqunix.store/collections/iqunix-mechanical-keyboards/products/f96-coral-sea-wireless-mechanical-keyboard)
 4. [IQUNIX L80 Formula Typing Wireless Mechanical Keyboard](https://iqunix.store/collections/iqunix-mechanical-keyboards/products/iqunix-l80-formula-typing-wireless-mechanical-keyboard)
 
-# Headphones
+## Headphones
 1. [Apple AirPods Pro](https://www.apple.com/au/shop/product/MWP22ZA/A/airpods-pro)
 
 ## Desk accessories & attachments
