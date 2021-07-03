@@ -41,8 +41,8 @@ Photo by <a href="https://unsplash.com/@writecodenow">Boitumelo Phetla</a> on <a
 7. [Grovemade Notepad](https://grovemade.com/product/notepad/?initial=673)
 
 ## Cable management
-2. [Cable Management Tray](https://www.amazon.com.au/gp/product/B085NSLX4C)
-3. [Reusable Cable Ties](https://www.amazon.com.au/gp/product/B096MDV7WQ/)
+1. [Cable Management Tray](https://www.amazon.com.au/gp/product/B085NSLX4C)
+2. [Reusable Cable Ties](https://www.amazon.com.au/gp/product/B096MDV7WQ/)
 
 ## Chairs
 1. [HermanMiller Aeron](https://www.hermanmiller.com/en_au/products/seating/office-chairs/aeron-chairs/)
