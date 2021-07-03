@@ -37,7 +37,7 @@ Photo by <a href="https://unsplash.com/@writecodenow">Boitumelo Phetla</a> on <a
 3. [Orbitkey Desk Mat](https://www.orbitkey.com.au/collections/orbitkey-desk-mat/products/orbitkey-desk-mat?variant=32925546446902)
 4. [Orbitkey Nest](https://www.orbitkey.com.au/collections/orbitkey-nest/products/orbitkey-nest?variant=32544928366646)
 5. [UPLIFT Desk Under Desk Drawer with Shelf](https://www.upliftdesk.com/locking-under-desk-drawer-with-shelf-by-uplift-desk/)
-6. [BenQ ScreenBar e-Reading LED Task Lamp](https://www.benq.com/en-au/lamps/desklamp/screenbar.html)
+6. [BenQ ScreenBar Plus](https://www.benq.com/en-au/lamps/computer-desklamp/screenbar-plus.html)
 7. [Grovemade Notepad](https://grovemade.com/product/notepad/?initial=673)
 
 ## Cable management
