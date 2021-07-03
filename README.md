@@ -50,6 +50,9 @@ Photo by <a href="https://unsplash.com/@writecodenow">Boitumelo Phetla</a> on <a
 ## Accessories
 1. [UGREEN 3.5mm Headphone Audio Splitter Cable](https://www.ugreen.com/products/3-5mm-headphone-splitter)
 2. [UGREEN 2 In 1 Out KVM HDMI Switch Box](https://www.ugreen.com/products/2-in-1-out-kvm-hdmi-switch-box)
+3. [CORSAIR 256GB USB 3.0 Flash Drive](https://www.corsair.com/us/en/Categories/Products/Storage/USB-Drives/flash-survivor-stealth-config/p/CMFSS3B-256GB)
+4. [SanDisk Extreme PRO® USB 3.2 Solid State Flash Drive](https://shop.westerndigital.com/en-au/products/usb-flash-drives/sandisk-extreme-pro-usb-3-2#SDCZ880-128G-G46)
+5. [WD_BLACK P50 Game Drive SSD](https://shop.westerndigital.com/en-au/products/portable-drives/wd-black-p50-game-drive-usb-3-2-ssd#WDBA3S0040BBK-WESN)
 
 ## Decorations
 1. [Gridstudio](https://gridstudio.cc/)
