@@ -3,6 +3,9 @@
 ![alt text](https://images.unsplash.com/photo-1610576660982-9eab5683cb42?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1661&q=80)
 
 Photo by <a href="https://unsplash.com/@writecodenow">Boitumelo Phetla</a> on <a href="https://unsplash.com/">Unsplash</a>
+
+
+[![VERIFY README](https://github.com/lifeparticle/Desk-Setups-for-Programmers/actions/workflows/link.yml/badge.svg)](https://github.com/lifeparticle/Desk-Setups-for-Programmers/actions/workflows/link.yml)
 </div>
 
 ## Standing Desks
@@ -43,4 +46,4 @@ Photo by <a href="https://unsplash.com/@writecodenow">Boitumelo Phetla</a> on <a
 
 ## Chairs
 1. [HermanMiller Aeron](https://www.hermanmiller.com/en_au/products/seating/office-chairs/aeron-chairs/)
-2. [HermanMiller Embody](https://www.hermanmiller.com/en_au/products/seating/office-chairs/embody-chairs/) 
+2. [HermanMiller Embody](https://www.hermanmiller.com/en_au/products/seating/office-chairs/embody-chairs/)
