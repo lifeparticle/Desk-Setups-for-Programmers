@@ -7,9 +7,7 @@ Photo by <a href="https://unsplash.com/@writecodenow">Boitumelo Phetla</a> on <a
 [![VERIFY README](https://github.com/lifeparticle/Desk-Setups-for-Programmers/actions/workflows/link.yml/badge.svg)](https://github.com/lifeparticle/Desk-Setups-for-Programmers/actions/workflows/link.yml)
 </div>
 
-<!--
-todo description
--->
+A curated list of items to build a productive and efficient workspace.
 
 ## Standing Desks
 1. [Jarvis Hardwood Standing Desk](https://www.fully.com/en-eu/standing-desks/jarvis/jarvis-hardwood-standing-desk.html)
