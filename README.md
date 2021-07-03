@@ -4,7 +4,6 @@
 
 Photo by <a href="https://unsplash.com/@writecodenow">Boitumelo Phetla</a> on <a href="https://unsplash.com/">Unsplash</a>
 
-
 [![VERIFY README](https://github.com/lifeparticle/Desk-Setups-for-Programmers/actions/workflows/link.yml/badge.svg)](https://github.com/lifeparticle/Desk-Setups-for-Programmers/actions/workflows/link.yml)
 </div>
 
@@ -47,3 +46,6 @@ Photo by <a href="https://unsplash.com/@writecodenow">Boitumelo Phetla</a> on <a
 ## Chairs
 1. [HermanMiller Aeron](https://www.hermanmiller.com/en_au/products/seating/office-chairs/aeron-chairs/)
 2. [HermanMiller Embody](https://www.hermanmiller.com/en_au/products/seating/office-chairs/embody-chairs/)
+
+## Decorations
+1. [Gridstudio](https://gridstudio.cc/)
