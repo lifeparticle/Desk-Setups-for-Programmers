@@ -47,5 +47,9 @@ Photo by <a href="https://unsplash.com/@writecodenow">Boitumelo Phetla</a> on <a
 1. [HermanMiller Aeron](https://www.hermanmiller.com/en_au/products/seating/office-chairs/aeron-chairs/)
 2. [HermanMiller Embody](https://www.hermanmiller.com/en_au/products/seating/office-chairs/embody-chairs/)
 
+## Accessories
+1. [UGREEN 3.5mm Headphone Audio Splitter Cable](https://www.ugreen.com/products/3-5mm-headphone-splitter)
+2. [UGREEN 2 In 1 Out KVM HDMI Switch Box](https://www.ugreen.com/products/2-in-1-out-kvm-hdmi-switch-box)
+
 ## Decorations
 1. [Gridstudio](https://gridstudio.cc/)
