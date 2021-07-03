@@ -14,13 +14,13 @@ Photo by <a href="https://unsplash.com/@writecodenow">Boitumelo Phetla</a> on <a
 3. [Autonomous SmartDesk Core](https://www.autonomous.ai/?quickview=smartdesk-2-home&category=standing-desks)
 
 ## Monitors
-1. [LG 49WL95C-W 49-Inch](https://www.amazon.com/LG-49WL95C-W-49-Inch-Curved-Ultrawide/dp/B07PJQKLTW)
+1. [LG 49WL95C-W 49-Inch](https://www.lg.com/us/monitors/lg-49WL95C-W-ultrawide-monitor)
 
 ## Computers
 1. [Apple Mac mini](https://www.apple.com/au/mac-mini/)
 
 ## Mice
-1. [Logitech MX Master 3](https://www.amazon.com/Logitech-Master-Advanced-Wireless-Mouse/dp/B07S395RWD)
+1. [Logitech MX Master 3](https://www.logitech.com/en-au/products/mice/mx-master-3.html)
 
 ## Keyboards
 1. [Apple Magic Keyboard with Numeric Keypad](https://www.apple.com/au/shop/product/MQ052ZA/A/magic-keyboard-with-numeric-keypad-us-english-silver)
@@ -32,12 +32,12 @@ Photo by <a href="https://unsplash.com/@writecodenow">Boitumelo Phetla</a> on <a
 1. [Apple AirPods Pro](https://www.apple.com/au/shop/product/MWP22ZA/A/airpods-pro)
 
 ## Desk accessories & attachments
-1. [VIVO Single LCD Monitor Desk Mount Stand for 13" to 27](https://www.amazon.com.au/VIVO-Monitor-Adjustable-Articulating-STAND-V001/dp/B00B21TLQU)
-2. [VIVO Under Desk Pull-Out Drawer](https://www.amazon.com/VIVO-Pull-Out-Organizer-Workstation-DESK-AC03B/dp/B07T2MVZ26)
+1. [VIVO Single LCD Monitor Desk Mount Stand for 13" to 27"](https://vivo-us.com/collections/home-office-products/products/stand-v001)
+2. [VIVO Under Desk Pull-Out Drawer](https://vivo-us.com/collections/drawers/products/desk-ac03l-b-br-br-lockable-pull-out-drawer)
 3. [Orbitkey Desk Mat](https://www.orbitkey.com.au/collections/orbitkey-desk-mat/products/orbitkey-desk-mat?variant=32925546446902)
 4. [Orbitkey Nest](https://www.orbitkey.com.au/collections/orbitkey-nest/products/orbitkey-nest?variant=32544928366646)
 5. [UPLIFT Desk Under Desk Drawer with Shelf](https://www.upliftdesk.com/locking-under-desk-drawer-with-shelf-by-uplift-desk/)
-6. [BenQ ScreenBar e-Reading LED Task Lamp](https://www.amazon.com.au/BenQ-ScreenBar-Auto-Dimming-Adjustment-ScreenBar_Black/dp/B076VNFZJG/)
+6. [BenQ ScreenBar e-Reading LED Task Lamp](https://www.benq.com/en-au/lamps/desklamp/screenbar.html)
 7. [Grovemade Notepad](https://grovemade.com/product/notepad/?initial=673)
 
 ## Cable management
