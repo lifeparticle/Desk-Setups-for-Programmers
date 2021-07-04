@@ -60,6 +60,8 @@ Table of Contents
 6. [BenQ ScreenBar Plus](https://www.benq.com/en-au/lamps/computer-desklamp/screenbar-plus.html)
 7. [Grovemade Notepad](https://grovemade.com/product/notepad/?initial=673)
 8. [Corsair Mouse Pad](https://www.amazon.com.au/CORSAIR-MM100-High-Performance-Optimized-Designed/dp/B01MS4C5WX)
+9. [Corsair Elgato Key Light](https://www.amazon.com/Elgato-Key-Light-Professional-App-Enabled/dp/B07L755X9G)
+10. [Corsair Elgato Desk Mount Stand](https://www.amazon.com.au/Corsair-Multi-Mount-Black-10AAB9901/dp/B07X49967V/)
 
 ## Cable management
 1. [Baskiss Cable Management Tray](https://www.amazon.com.au/gp/product/B085NSLX4C)
