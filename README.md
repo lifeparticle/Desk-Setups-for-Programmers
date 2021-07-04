@@ -9,6 +9,22 @@ Photo by <a href="https://unsplash.com/@writecodenow">Boitumelo Phetla</a> on <a
 
 A curated list of items to build a productive and efficient workspace.
 
+Table of Contents
+=================
+
+* [Standing Desks](#standing-desks)
+* [Desks](#desks)
+* [Monitors](#monitors)
+* [Computers](#computers)
+* [Mice](#mice)
+* [Keyboards](#keyboards)
+* [Headphones](#headphones)
+* [Desk accessories &amp; attachments](#desk-accessories--attachments)
+* [Cable management](#cable-management)
+* [Chairs](#chairs)
+* [Accessories](#accessories)
+* [Decorations](#decorations)
+
 ## Standing Desks
 1. [Jarvis Hardwood Standing Desk](https://www.fully.com/en-eu/standing-desks/jarvis/jarvis-hardwood-standing-desk.html)
 2. [Ikea BEKANT](https://www.ikea.com/au/en/p/bekant-desk-sit-stand-white-s09222577/)
