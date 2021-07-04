@@ -59,6 +59,7 @@ Table of Contents
 5. [UPLIFT Desk Under Desk Drawer with Shelf](https://www.upliftdesk.com/locking-under-desk-drawer-with-shelf-by-uplift-desk/)
 6. [BenQ ScreenBar Plus](https://www.benq.com/en-au/lamps/computer-desklamp/screenbar-plus.html)
 7. [Grovemade Notepad](https://grovemade.com/product/notepad/?initial=673)
+8. [Corsair Mouse Pad](https://www.amazon.com.au/CORSAIR-MM100-High-Performance-Optimized-Designed/dp/B01MS4C5WX)
 
 ## Cable management
 1. [Baskiss Cable Management Tray](https://www.amazon.com.au/gp/product/B085NSLX4C)
