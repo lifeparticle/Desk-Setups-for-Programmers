@@ -45,8 +45,9 @@ A curated list of items to build a productive and efficient workspace.
 7. [Grovemade Notepad](https://grovemade.com/product/notepad/?initial=673)
 
 ## Cable management
-1. [Cable Management Tray](https://www.amazon.com.au/gp/product/B085NSLX4C)
-2. [Reusable Cable Ties](https://www.amazon.com.au/gp/product/B096MDV7WQ/)
+1. [Baskiss Cable Management Tray](https://www.amazon.com.au/gp/product/B085NSLX4C)
+2. [Autonomous Cable Tray](https://www.autonomous.ai/?quickview=cable-tray&category=office-accessories)
+3. [ForSewian Reusable Cable Ties](https://www.amazon.com.au/gp/product/B096MDV7WQ/)
 
 ## Chairs
 1. [HermanMiller Aeron](https://www.hermanmiller.com/en_au/products/seating/office-chairs/aeron-chairs/)
