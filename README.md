@@ -67,6 +67,7 @@ Table of Contents
 1. [Baskiss Cable Management Tray](https://www.amazon.com.au/gp/product/B085NSLX4C)
 2. [Autonomous Cable Tray](https://www.autonomous.ai/?quickview=cable-tray&category=office-accessories)
 3. [ForSewian Reusable Cable Ties](https://www.amazon.com.au/gp/product/B096MDV7WQ/)
+4. [Baskiss Cable Clips](https://www.amazon.com.au/gp/product/B07BQ2MWT3/)
 
 ## Chairs
 1. [HermanMiller Aeron](https://www.hermanmiller.com/en_au/products/seating/office-chairs/aeron-chairs/)
