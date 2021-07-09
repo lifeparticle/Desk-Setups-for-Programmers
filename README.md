@@ -79,6 +79,8 @@ Table of Contents
 3. [CORSAIR 256GB USB 3.0 Flash Drive](https://www.amazon.com.au/Corsair-Flash-Survivor-Stealth-256GB/dp/B00YHL1RJG)
 4. [SanDisk Extreme PRO® USB 3.2 Solid State Flash Drive](https://shop.westerndigital.com/en-au/products/usb-flash-drives/sandisk-extreme-pro-usb-3-2#SDCZ880-128G-G46)
 5. [WD_BLACK P50 Game Drive SSD](https://shop.westerndigital.com/en-au/products/portable-drives/wd-black-p50-game-drive-usb-3-2-ssd#WDBA3S0040BBK-WESN)
+6. [TP-Link Desktop Switch](https://www.tp-link.com/au/business-networking/unmanaged-switch/tl-sg105/)
+7. [UGREEN Ethernet Cable](https://www.amazon.com.au/UGREEN-Ethernet-Shielded-Gigabit-600Mhz/dp/B00QV1F1C4)
 
 ## Decorations
 1. [Gridstudio](https://gridstudio.cc/)
