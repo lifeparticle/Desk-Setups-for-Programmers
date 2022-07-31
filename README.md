@@ -85,3 +85,8 @@ Table of Contents
 ## Decorations
 1. [Gridstudio](https://gridstudio.cc/)
 2. [IWOOT Floppy Disk Coasters](https://www.iwantoneofthose.com/home-accessories/floppy-disk-coaster-set/11979404.html)
+
+## Looks interesting
+1. [osinlight](https://osinlight.com/)
+2. [Screeneo U4](https://www.philips.com.au/c-p/SCN350_INT/screeneo-u4-home-projector)
+3. [Abacus](https://www.pentaform.co.uk/)
