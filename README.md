@@ -24,6 +24,7 @@ Table of Contents
 * [Chairs](#chairs)
 * [Accessories](#accessories)
 * [Decorations](#decorations)
+* [Looks interesting](#looks-interesting)
 
 ## Standing Desks
 1. [Jarvis Hardwood Standing Desk](https://www.fully.com/en-eu/standing-desks/jarvis/jarvis-hardwood-standing-desk.html)
