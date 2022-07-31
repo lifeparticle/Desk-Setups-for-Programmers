@@ -54,7 +54,7 @@ Table of Contents
 
 ## Desk accessories & attachments
 1. [VIVO Single LCD Monitor Desk Mount Stand for 13" to 27"](https://vivo-us.com/collections/home-office-products/products/stand-v001)
-2. [VIVO Under Desk Pull-Out Drawer](https://vivo-us.com/collections/drawers/products/desk-ac03l-b-br-br-lockable-pull-out-drawer)
+2. [VIVO Under Desk Pull-Out Drawer](https://vivo-us.com/products/desk-ac03l-b?_pos=5&_sid=dc7a53bf7&_ss)
 3. [Orbitkey Desk Mat](https://www.orbitkey.com.au/collections/orbitkey-desk-mat/products/orbitkey-desk-mat?variant=32925546446902)
 4. [Orbitkey Nest](https://www.orbitkey.com.au/collections/orbitkey-nest/products/orbitkey-nest?variant=32544928366646)
 5. [UPLIFT Desk Under Desk Drawer with Shelf](https://www.upliftdesk.com/locking-under-desk-drawer-with-shelf-by-uplift-desk/)
@@ -76,12 +76,11 @@ Table of Contents
 
 ## Accessories
 1. [UGREEN 3.5mm Headphone Audio Splitter Cable](https://www.ugreen.com/products/3-5mm-headphone-splitter)
-2. [UGREEN 2 In 1 Out KVM HDMI Switch Box](https://www.ugreen.com/products/2-in-1-out-kvm-hdmi-switch-box)
-3. [CORSAIR 256GB USB 3.0 Flash Drive](https://www.amazon.com.au/Corsair-Flash-Survivor-Stealth-256GB/dp/B00YHL1RJG)
-4. [SanDisk Extreme PRO® USB 3.2 Solid State Flash Drive](https://shop.westerndigital.com/en-au/products/usb-flash-drives/sandisk-extreme-pro-usb-3-2#SDCZ880-128G-G46)
-5. [WD_BLACK P50 Game Drive SSD](https://shop.westerndigital.com/en-au/products/portable-drives/wd-black-p50-game-drive-usb-3-2-ssd#WDBA3S0040BBK-WESN)
-6. [TP-Link Desktop Switch](https://www.tp-link.com/au/business-networking/unmanaged-switch/tl-sg105/)
-7. [UGREEN Ethernet Cable](https://www.amazon.com.au/UGREEN-Ethernet-Shielded-Gigabit-600Mhz/dp/B00QV1F1C4)
+2. [CORSAIR 256GB USB 3.0 Flash Drive](https://www.amazon.com.au/Corsair-Flash-Survivor-Stealth-256GB/dp/B00YHL1RJG)
+3. [SanDisk Extreme PRO® USB 3.2 Solid State Flash Drive](https://shop.westerndigital.com/en-au/products/usb-flash-drives/sandisk-extreme-pro-usb-3-2#SDCZ880-128G-G46)
+4. [WD_BLACK P50 Game Drive SSD](https://shop.westerndigital.com/en-au/products/portable-drives/wd-black-p50-game-drive-usb-3-2-ssd#WDBA3S0040BBK-WESN)
+5. [TP-Link Desktop Switch](https://www.tp-link.com/au/business-networking/unmanaged-switch/tl-sg105/)
+6. [UGREEN Ethernet Cable](https://www.amazon.com.au/UGREEN-Ethernet-Shielded-Gigabit-600Mhz/dp/B00QV1F1C4)
 
 ## Decorations
 1. [Gridstudio](https://gridstudio.cc/)
