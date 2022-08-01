@@ -86,6 +86,15 @@ Table of Contents
 1. [Gridstudio](https://gridstudio.cc/)
 2. [IWOOT Floppy Disk Coasters](https://www.iwantoneofthose.com/home-accessories/floppy-disk-coaster-set/11979404.html)
 
+## Books
+1. How to Solve It by Computer by R. G. Dromey
+2. Clean Code by Robert Cecil Martin
+3. Grokking Algorithms: An Illustrated Guide for Programmers and Other Curious People by Aditya Bhargava
+4. 40 Algorithms Every Programmer Should Know by Imran Ahmad 
+5. The Art of Computer Programming by Donald Knuth
+6. The Pragmatic Programmer by Andrew Hunt
+7. Refactoring: Improving the Design of Existing Code by Martin Fowler
+
 ## Looks interesting
 1. [osinlight](https://osinlight.com/)
 2. [Screeneo U4](https://www.philips.com.au/c-p/SCN350_INT/screeneo-u4-home-projector)
