@@ -24,6 +24,7 @@ Table of Contents
 * [Chairs](#chairs)
 * [Accessories](#accessories)
 * [Decorations](#decorations)
+* [Books](#books)
 * [Looks interesting](#looks-interesting)
 
 ## Standing Desks
