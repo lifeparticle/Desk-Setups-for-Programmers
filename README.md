@@ -100,3 +100,4 @@ Table of Contents
 1. [osinlight](https://osinlight.com/)
 2. [Screeneo U4](https://www.philips.com.au/c-p/SCN350_INT/screeneo-u4-home-projector)
 3. [Abacus](https://www.pentaform.co.uk/)
+4. [MelGeek Mojo65](https://www.melgeek.com/products/melgeek-mojo65-68key-5-2-bluetooth-rgb-resin-mechanical-keyboard-kit-with-brass-plate-melgeek-com)
