@@ -25,6 +25,7 @@ Table of Contents
 * [Accessories](#accessories)
 * [Decorations](#decorations)
 * [Books](#books)
+* [Cleaning](#cleaning)
 * [Looks interesting](#looks-interesting)
 
 ## Standing Desks
@@ -95,6 +96,10 @@ Table of Contents
 5. The Art of Computer Programming by Donald Knuth
 6. The Pragmatic Programmer by Andrew Hunt
 7. Refactoring: Improving the Design of Existing Code by Martin Fowler
+
+## Cleaning
+
+1. [Isopropyl Alcohol](https://www.jaycar.com.au/isopropyl-alcohol-99-8-spray-250ml/p/NA1066)
 
 ## Looks interesting
 1. [osinlight](https://osinlight.com/)
