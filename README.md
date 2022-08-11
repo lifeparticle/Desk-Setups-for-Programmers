@@ -101,6 +101,11 @@ Table of Contents
 
 1. [Isopropyl Alcohol](https://www.jaycar.com.au/isopropyl-alcohol-99-8-spray-250ml/p/NA1066)
 
+## Stickers
+
+1. [Adafruit](https://www.adafruit.com/?q=stickers&sort=BestMatch)
+2. [GitHub](https://thegithubshop.com/collections/stickers)
+
 ## Looks interesting
 1. [osinlight](https://osinlight.com/)
 2. [Screeneo U4](https://www.philips.com.au/c-p/SCN350_INT/screeneo-u4-home-projector)
