@@ -31,7 +31,7 @@ Table of Contents
 * [Looks interesting](#looks-interesting)
 
 ## Standing Desks
-1. [Jarvis Hardwood Standing Desk](https://www.fully.com/en-eu/standing-desks/jarvis/jarvis-hardwood-standing-desk.html)
+1. [Jarvis Hardwood Standing Desk](https://www.fully.com/en-eu/standing-desks/jarvis-hardwood-standing-desk-eu.html)
 2. [Ikea BEKANT](https://www.ikea.com/au/en/p/bekant-desk-sit-stand-white-s09222577/)
 3. [Autonomous SmartDesk Core](https://www.autonomous.ai/?quickview=smartdesk-2-home&category=standing-desks)
 
