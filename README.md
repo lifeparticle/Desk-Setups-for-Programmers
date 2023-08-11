@@ -26,7 +26,6 @@ Table of Contents
 * [Chairs](#chairs)
 * [Accessories](#accessories)
 * [Decorations](#decorations)
-* [Books](#books)
 * [Cleaning](#cleaning)
 * [Looks interesting](#looks-interesting)
 
@@ -89,15 +88,6 @@ Table of Contents
 ## Decorations
 1. [Gridstudio](https://gridstudio.cc/)
 2. [IWOOT Floppy Disk Coasters](https://www.iwantoneofthose.com/home-accessories/floppy-disk-coaster-set/11979404.html)
-
-## Books
-1. How to Solve It by Computer by R. G. Dromey
-2. Clean Code by Robert Cecil Martin
-3. Grokking Algorithms: An Illustrated Guide for Programmers and Other Curious People by Aditya Bhargava
-4. 40 Algorithms Every Programmer Should Know by Imran Ahmad 
-5. The Art of Computer Programming by Donald Knuth
-6. The Pragmatic Programmer by Andrew Hunt
-7. Refactoring: Improving the Design of Existing Code by Martin Fowler
 
 ## Cleaning
 
